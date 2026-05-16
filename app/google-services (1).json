@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258975968368",
+    "project_id": "nammametrosahaya-db7bf",
+    "storage_bucket": "nammametrosahaya-db7bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258975968368:android:a975ad18e42bb1f3fb98b5",
+        "android_client_info": {
+          "package_name": "com.nammametro.sahaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkcjPpw4K1C-zJHQyZM_PaQtdaDhsLjE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
